@@ -1,0 +1,37 @@
+1. What do you mean by BI?
+Business Intelligence (BI) refers to the process of collecting, analyzing, and visualizing business data to support decision-making.
+It helps organizations identify trends, patterns, and insights for strategic planning.
+
+
+2. How Power BI helps in BI, and how does it help Analysts?
+Power BI is a powerful BI tool by Microsoft that helps analysts:
+
+Data Integration: Connects to various data sources (Excel, databases, cloud).
+Data Transformation: Cleans and structures raw data.
+Visualization: Creates interactive dashboards and reports.
+Advanced Analytics: Uses AI, machine learning, and DAX formulas for deeper insights.
+Collaboration: Shares reports across teams via Power BI Service
+
+3. Explain Descriptive Analytics?
+Descriptive analytics analyzes historical data to understand what happened in the past. It uses summaries, charts,
+and reports to provide insights. Example: Monthly sales reports, website traffic trends.
+
+4. Explain Predictive Analytics
+Predictive analytics forecasts future trends using statistical models and machine learning based on historical data. Example: Predicting customer churn, sales forecasting.
+
+
+5. Explain Prescriptive Analytics
+Prescriptive analytics suggests optimal actions based on data insights and predictive models.
+It helps in decision-making by recommending what should be done. Example: Recommending the best marketing strategy to increase sales.
+
+6. Five Real-Life Questions Power BI Can Solve
+Which products are selling the most in different regions?
+What is the trend of customer complaints over time?
+Which marketing campaigns have the highest ROI?
+How can we predict future revenue based on past performance?
+Which employees are the most productive based on KPI tracking?
+
+
+
+
+
